@@ -4,7 +4,6 @@
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![pynput](https://img.shields.io/badge/Capture-pynput-FF6B35?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Educational](https://img.shields.io/badge/Purpose-Educational%20Only-red?style=flat-square)
 
 > A fully-featured desktop keylogger simulation built for cybersecurity education. Understand how keystroke logging works, what data gets captured, and how to defend against it.All in a dark, terminal-hacker GUI with real-time visualization.
