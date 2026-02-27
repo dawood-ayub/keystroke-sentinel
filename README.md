@@ -82,7 +82,7 @@ pynput works out of the box. Run as Administrator to capture keystrokes from ele
 ### 4. Linux
 ```bash
 # If capture doesn't work:
-sudo python keylogge.py
+sudo python keylogger.py
 ```
 
 ---
